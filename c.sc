@@ -1,3 +1,4 @@
+// CREDITS TO GNEMBON FOR CREATING THIS SCRIPT, THIS IS ONLY A MODIFIED VERSION TO BE INSTANT WHEN THE COMMAND IS TYPED, AND TO HAVE A SHORTER COMMAND SUFFIX
 // safe and fair spectator camera app by gnembon
 // saves player's position, motion, angles, effects and restores them on landing
 // saves player configs between saves
